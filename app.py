@@ -12,7 +12,7 @@ CORS(app)
 
 @app.route('/')
 def home():
-    return redirect("https://cyberboysumanjay.github.io/JioSaavnAPI/")
+    return redirect("[https://github.com/educatorraman/softsutra-music-api](https://github.com/educatorraman/softsutra-music-api)")
 
 
 @app.route('/song/')

@@ -2,7 +2,7 @@
 
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/jiosaavnapi.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/JioSaavnAPI) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/educatorraman/softsutra-music-api.svg?style=social&label=Star)](https://github.com/educatorraman/softsutra-music-api) ![GitHub followers](https://img.shields.io/github/followers/educatorraman.svg?style=social&label=Follow)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -66,7 +66,7 @@
 
 Clone this repository using
 ```sh
-$ git clone https://github.com/cyberboysumanjay/JioSaavnAPI
+$ git clone https://github.com/educatorraman/softsutra-music-api
 ```
 Enter the directory and install all the requirements using
 ```sh
@@ -126,7 +126,7 @@ http://127.0.0.1:5000/lyrics/?query=<insert-jiosaavn-song-link-or-song-id>&lyric
 
 #### You can fork the repo and deploy on VPS or deploy it on Heroku :)  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/JioSaavnAPI/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/educatorraman/softsutra-music-api/tree/master)
 
 **Note:** Heroku gives US/Europe servers which won't be able to fetch all songs flawlessly. Use any Indian VPS for accurate results.
 
@@ -140,4 +140,4 @@ http://127.0.0.1:5000/lyrics/?query=<insert-jiosaavn-song-link-or-song-id>&lyric
 #### [Music_Downloader_CLI](https://github.com/thehamkercat/Music_Downloader_CLI) made by [TheHamkerCat](https://github.com/thehamkercat)
 #### Star the Repo in case you liked it :)
 
-### © [Sumanjay](https://cyberboysumanjay.github.io)
+### © [Sumanjay](https://educatorraman.github.io)
