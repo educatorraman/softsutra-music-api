@@ -12,7 +12,7 @@ CORS(app)
 
 @app.route('/')
 def home():
-    return redirect("https://github.com/educatorraman/softsutra-music-api")
+    return jsonify({"status": "Online", "message": "Welcome to SoftSutra Music API", "developer": "Raman Sharma"})
 
 
 @app.route('/song/')
